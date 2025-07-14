@@ -21,5 +21,7 @@ features:
     details: OOOMO is a hyper-casual social app where you can vote, give compliment, and send secret hints to your friends and crush anonymously. The app focused on teenager aged 15 - 18, in Indonesia.
   - title: KadoSaku
     details: Kado Saku is a mobile game loyalty reward platform developed by Touchten Games. KadoSaku intended to be the next evolution of rewarded ads, where player can redeem real world rewards across multiple game by completing in-game missions or achievements.
+  - title: Maingame.com
+    details: Main Game is HTML 5 mobile game platform where player can just play the game through their mobile phone browser and win actual rewards.
 ---
 
